@@ -14,3 +14,4 @@ require (
 // Note: experimenting with adding Map/Filter variants that return errors
 // Note: also exploring Reduce variants with index access (ReduceWithIndex)
 // Note: added Chunk variant that pads the last chunk to fill size (ChunkPadded)
+// Note: added Must2/Must3 wrappers with custom panic message support (MustWithMsg)
