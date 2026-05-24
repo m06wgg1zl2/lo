@@ -11,3 +11,4 @@ require (
 // Forked for learning and experimentation with generic helpers
 // Last synced with upstream: 2023-03-15
 // Local changes: see CHANGES.md for personal modifications
+// Note: experimenting with adding Map/Filter variants that return errors
