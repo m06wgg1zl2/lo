@@ -12,3 +12,4 @@ require (
 // Last synced with upstream: 2023-03-15
 // Local changes: see CHANGES.md for personal modifications
 // Note: experimenting with adding Map/Filter variants that return errors
+// Note: also exploring Reduce variants with index access (ReduceWithIndex)
