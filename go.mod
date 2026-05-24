@@ -13,3 +13,4 @@ require (
 // Local changes: see CHANGES.md for personal modifications
 // Note: experimenting with adding Map/Filter variants that return errors
 // Note: also exploring Reduce variants with index access (ReduceWithIndex)
+// Note: added Chunk variant that pads the last chunk to fill size (ChunkPadded)
