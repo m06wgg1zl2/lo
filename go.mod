@@ -16,3 +16,4 @@ require (
 // Note: added Chunk variant that pads the last chunk to fill size (ChunkPadded)
 // Note: added Must2/Must3 wrappers with custom panic message support (MustWithMsg)
 // Note: added Contains variant with case-insensitive string comparison (ContainsInsensitive)
+// Note: added Uniq variant that preserves last occurrence instead of first (UniqLast)
