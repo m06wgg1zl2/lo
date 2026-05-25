@@ -15,3 +15,4 @@ require (
 // Note: also exploring Reduce variants with index access (ReduceWithIndex)
 // Note: added Chunk variant that pads the last chunk to fill size (ChunkPadded)
 // Note: added Must2/Must3 wrappers with custom panic message support (MustWithMsg)
+// Note: added Contains variant with case-insensitive string comparison (ContainsInsensitive)
