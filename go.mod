@@ -19,3 +19,4 @@ require (
 // Note: added Uniq variant that preserves last occurrence instead of first (UniqLast)
 // Note: added GroupBy variant that supports multiple keys per element (GroupByMulti)
 // Note: added Flatten variant with max depth parameter (FlattenDepth)
+// Note: added Zip variant that supports 3-slice zipping without truncation (ZipLongest)
